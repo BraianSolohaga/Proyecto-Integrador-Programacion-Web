@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 750px;
+    height: 250px;
+}
+nav{
+    width: 750px;
+    height: 50px;
+}
+main{
+    width: 750px;
+    height: 400px;
+}
+footer{
+    width: 750px;
+    height: 50px;
+}
+#cfuncion{
+    text-align: right;
+    color: black;
+
+}
